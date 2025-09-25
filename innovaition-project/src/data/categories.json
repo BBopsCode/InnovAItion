@@ -1,0 +1,20 @@
+[
+    {
+        "CategoryId": 1,
+        "CategoryName": "Education",
+        "Description": "All about the latest in technology and innovation.",
+        "ImageSrc": "/Brain.svg"
+    },
+    {
+        "CategoryId": 2,
+        "CategoryName": "Security",
+        "Description": "Tips and insights for a healthier lifestyle.",
+        "ImageSrc": "/Lock.svg"
+    },
+    {
+        "CategoryId": 3,
+        "CategoryName": "Communication",
+        "Description": "Resources and articles on learning and development.",
+        "ImageSrc": "/Communication.svg"
+    }
+]
